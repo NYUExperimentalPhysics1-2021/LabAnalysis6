@@ -3,7 +3,7 @@
 
 but it **really** should be finished in lab/lecture this week. 
 
-To accept this assignment: 
+To accept this assignment: https://classroom.github.com/a/9Slo3077
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
 
